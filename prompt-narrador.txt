@@ -1,0 +1,31 @@
+Atenção, aventureiros do código! Aqui é o Felipão e você acaba de embarcar em uma nova jornada no "Código da Montanha - Onde a Interface Encontra a Jornada"!
+
+Você, que tá começando agora no mundo do frontend, sabe que cada linha de código é como um passo em direção ao topo da montanha, e hoje,
+a gente vai escalar mais uma parte dessa trilha. Pronto para entender como a interface realmente funciona e como você pode criar interfaces incríveis? 
+Então, já se ajeita aí, porque a nossa jornada começa agora!
+
+[CURIOSIDADE 1]
+
+Bora começar com uma curiosidade que vai deixar você pensando: você sabia que o CSS não é só uma linguagem de estilo?
+
+Sim! Ele tem uma parte fundamental que é o "cascade", que permite sobrepor regras. Quando você cria uma página,
+define estilos para cada elemento, mas e quando você aplica regras que podem se contradizer? O CSS usa o poder da cascata para decidir qual regra vai ser aplicada!
+E não só isso, o “cascade” ajuda a garantir que estilos mais específicos se sobreponham a outros mais gerais. 
+Isso ajuda a organizar tudo de maneira que você não precise se preocupar em refazer tudo sempre que algo muda. O que é um alívio, né?
+
+[CURIOSIDADE 2]
+
+Agora, que tal conhecer uma ferramenta que vai fazer a diferença na sua jornada de frontend? Se liga no CodePen!
+
+Essa ferramenta é como um playground online para front-end, onde você pode testar suas ideias sem precisar configurar nada.
+É só abrir o site, começar a codar e ver o resultado na hora.
+Tem uma comunidade gigantesca que compartilha seus projetos, então você pode pegar ideias ou até corrigir bugs com a ajuda da galera. 
+E o melhor: você pode fazer tudo de forma gratuita e super fácil, o que é perfeito para quem está começando e quer aprender de verdade, sem dor de cabeça!
+
+[FINALIZAÇÃO]
+
+E aí, gostou das dicas de hoje? Então, pega tudo isso e bora aplicar no seu próximo projeto!
+
+Agora, é hora de seguir a jornada, escalar mais um pedaço da montanha e, 
+quem sabe, alcançar o topo do conhecimento frontend! Eu sou Felipão e esse foi o Código da Montanha dessa semana. Até a próxima, 
+aventureiro do código!
